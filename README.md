@@ -2,12 +2,11 @@
 
 
 
-- 🔭 I’m currently working on Business Intelligence Analytics
-- 🌱 I’m currently diving into SQL
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Business Analytics Projects. 
+- 🌱 I’m currently learning SQL.
+- 👯 I’m looking to collaborate on any project that has a story to tell.
+- 🤔 I’m looking for help with my job search.
 - 💬 Ask me about anything to do with data or marketing! 
 - 📫 How to reach me: sakinahrjaisingh@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I make amazing desserts! 
 
